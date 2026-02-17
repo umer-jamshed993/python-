@@ -236,3 +236,6 @@ elif(b>=c and b>=a):
     print("second number is largest")
 else:
     print("third number is largest")
+
+print("hello world")
+print("hello umar")

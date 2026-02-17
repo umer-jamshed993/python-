@@ -344,3 +344,6 @@
 #this program will print all elements of numbers 
 
 #print("hello world")
+#print("hello wold i am python developer")
+#print("my name is umar jamshaid")
+#print
